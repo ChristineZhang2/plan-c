@@ -36,6 +36,7 @@
 		28F5F4AA289CA9F0008D43E1 /* FAQViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FAQViewController.swift; sourceTree = "<group>"; };
 		28F5F4AC289CB3C6008D43E1 /* debunkViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = debunkViewController.swift; sourceTree = "<group>"; };
 		28F5F4AE289CBB4B008D43E1 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
+		BD57040D289D04CF00FD4E56 /* Lofi.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lofi.m4a; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +74,7 @@
 				28B255D62899A20F0012A464 /* ViewController.swift */,
 				28B255D82899A20F0012A464 /* Main.storyboard */,
 				28B255DE2899A2120012A464 /* Assets.xcassets */,
+				BD57040D289D04CF00FD4E56 /* Lofi.m4a */,
 				28B255E02899A2120012A464 /* LaunchScreen.storyboard */,
 				28B255E32899A2120012A464 /* Info.plist */,
 				28B255DB2899A20F0012A464 /* plan_c.xcdatamodeld */,
