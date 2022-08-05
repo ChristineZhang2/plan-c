@@ -14,6 +14,8 @@
 		28B255DD2899A20F0012A464 /* plan_c.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 28B255DB2899A20F0012A464 /* plan_c.xcdatamodeld */; };
 		28B255DF2899A2120012A464 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28B255DE2899A2120012A464 /* Assets.xcassets */; };
 		28B255E22899A2120012A464 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28B255E02899A2120012A464 /* LaunchScreen.storyboard */; };
+		28DFB93C289CE3FC009A36DF /* ResourceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28DFB93B289CE3FC009A36DF /* ResourceViewController.swift */; };
+		28DFB93E289CE406009A36DF /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28DFB93D289CE406009A36DF /* SecondViewController.swift */; };
 		28F5F4AB289CA9F0008D43E1 /* FAQViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28F5F4AA289CA9F0008D43E1 /* FAQViewController.swift */; };
 		28F5F4AD289CB3C6008D43E1 /* debunkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28F5F4AC289CB3C6008D43E1 /* debunkViewController.swift */; };
 		28F5F4AF289CBB4B008D43E1 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28F5F4AE289CBB4B008D43E1 /* Question.swift */; };
@@ -29,6 +31,8 @@
 		28B255DE2899A2120012A464 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		28B255E12899A2120012A464 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		28B255E32899A2120012A464 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		28DFB93B289CE3FC009A36DF /* ResourceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResourceViewController.swift; sourceTree = "<group>"; };
+		28DFB93D289CE406009A36DF /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		28F5F4AA289CA9F0008D43E1 /* FAQViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FAQViewController.swift; sourceTree = "<group>"; };
 		28F5F4AC289CB3C6008D43E1 /* debunkViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = debunkViewController.swift; sourceTree = "<group>"; };
 		28F5F4AE289CBB4B008D43E1 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
@@ -75,6 +79,8 @@
 				28F5F4AA289CA9F0008D43E1 /* FAQViewController.swift */,
 				28F5F4AC289CB3C6008D43E1 /* debunkViewController.swift */,
 				28F5F4AE289CBB4B008D43E1 /* Question.swift */,
+				28DFB93B289CE3FC009A36DF /* ResourceViewController.swift */,
+				28DFB93D289CE406009A36DF /* SecondViewController.swift */,
 			);
 			path = "plan-c";
 			sourceTree = "<group>";
@@ -153,9 +159,11 @@
 				28B255DD2899A20F0012A464 /* plan_c.xcdatamodeld in Sources */,
 				28F5F4AD289CB3C6008D43E1 /* debunkViewController.swift in Sources */,
 				28B255D72899A20F0012A464 /* ViewController.swift in Sources */,
+				28DFB93E289CE406009A36DF /* SecondViewController.swift in Sources */,
 				28B255D32899A20F0012A464 /* AppDelegate.swift in Sources */,
 				28F5F4AB289CA9F0008D43E1 /* FAQViewController.swift in Sources */,
 				28F5F4AF289CBB4B008D43E1 /* Question.swift in Sources */,
+				28DFB93C289CE3FC009A36DF /* ResourceViewController.swift in Sources */,
 				28B255D52899A20F0012A464 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
